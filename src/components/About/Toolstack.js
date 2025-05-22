@@ -5,9 +5,6 @@ import { FaAws } from "react-icons/fa";
 import {
   SiVisualstudiocode,
   SiPostman,
-  SiSlack,
-  SiVercel,
-  SiMacos,
   SiWireshark,
 } from "react-icons/si";
 
