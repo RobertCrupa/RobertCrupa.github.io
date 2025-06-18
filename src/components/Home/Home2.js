@@ -38,7 +38,12 @@ function Home2() {
           </Col>
           <Col md={4} className="myAvtar">
             <Tilt>
-              <img src={myImg} className="img-fluid" alt="avatar" />
+              <img
+                src={myImg}
+                className="img-fluid"
+                alt="avatar"
+                style={{ maxWidth: "80%", height: "auto" }}
+              />
             </Tilt>
           </Col>
         </Row>
